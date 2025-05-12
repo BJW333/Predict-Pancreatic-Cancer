@@ -16,8 +16,10 @@ Viewing Outputs and Results.
 -------------------------------
 
 To see the output/results of the run programs just click into each corresponding jupyter notebook either: 
-<br> GS_Pancreatic_Cancer_Stacked_Ensemble_RF_HGB_LR_Prediction_Model.ipynb or RS_Pancreatic_Cancer_Stacked_Ensemble_RF_HGB_LR_Prediction_Model.ipynb
-<br> and scroll all the way down to see the outputs/results and all of the visualizations.
+<br>
+GS_Pancreatic_Cancer_Stacked_Ensemble_RF_HGB_LR_Prediction_Model.ipynb or RS_Pancreatic_Cancer_Stacked_Ensemble_RF_HGB_LR_Prediction_Model.ipynb
+<br> 
+and scroll all the way down to see the outputs/results and all of the visualizations. If you do not see results download the files onto your own system and run them.
 
 <br>
 
